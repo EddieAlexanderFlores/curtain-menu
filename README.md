@@ -1,3 +1,3 @@
-# curtain-menu
-Sample of a curtain menu. 
+# curtain-menu 
 https://eddiealexanderflores.github.io/curtain-menu/
+Sample of a curtain menu.
