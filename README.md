@@ -1,2 +1,3 @@
 # curtain-menu
-Opens a curtain menu by tapping on the menu icon.
+Sample of a curtain menu. 
+https://eddiealexanderflores.github.io/curtain-menu/
